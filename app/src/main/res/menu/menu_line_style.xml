@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/drawline1" android:title="1"/>
+    <item android:id="@+id/drawline2" android:title="2"/>
+    <item android:id="@+id/drawline3" android:title="3"/>
+    <item android:id="@+id/drawline4" android:title="4"/>
+    <item android:id="@+id/drawline5" android:title="5"/>
+</menu>
